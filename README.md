@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShanukaGimhan
+- 👋 Hi, I’m Shanuka Gimhan
 - 👀 I’m interested in Software Engineering / Cyber Security industry
 - 🌱 I’m currently learning Latest Progamming Frameworks and Internet Security
 - 💞️ I’m looking to collaborate on Software Development Industry or Cyber Security Industry to learn new Technology
