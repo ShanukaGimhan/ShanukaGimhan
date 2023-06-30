@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanukaGimhan
 - 👀 I’m interested in Software Engineering industry
-- 🌱 I’m currently learning latest Progamming Framework
+- 🌱 I’m currently learning Latest Progamming Framework
 - 💞️ I’m looking to collaborate on Software Development Industry to learn new Technology
 - 📫 How to reach me 
 Email - shanukagimhan375@gmail.com
